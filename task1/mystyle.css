@@ -1,0 +1,28 @@
+body {
+ background-color: lightpink;
+font-family: 'Courier New', monospace;
+}
+#add-data{
+  text-align: center;
+}
+#chart1{
+  position: absolute;
+ width: 33%;
+
+
+}
+#chart2{
+  position: absolute;
+
+ width: 33%;
+ left: 68%;
+
+
+}
+#chart3{
+  position: absolute;
+
+ width: 33%;
+left: 35%;
+
+}
